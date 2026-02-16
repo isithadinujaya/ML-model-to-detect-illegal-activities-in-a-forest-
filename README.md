@@ -10,4 +10,8 @@ For the SPARK project our team has decided to implement a device which can detec
     - Used Mel Spectrogram for feature extraction
     - Used 7 layer Conv2d, 2 layer Maxpolling2D, 2 layer Dense
 
+## ESC - 50 Data Set
+  ### SVM MODEL
+  
+
 
