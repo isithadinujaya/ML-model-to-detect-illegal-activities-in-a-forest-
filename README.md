@@ -12,6 +12,6 @@ For the SPARK project our team has decided to implement a device which can detec
 
 ## ESC - 50 Data Set
   ### SVM MODEL
-  
+  - for feature extraction combined mel spectrogram and MFCC in to on vector 
 
 
